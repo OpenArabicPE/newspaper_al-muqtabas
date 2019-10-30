@@ -15271,7 +15271,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/1</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7596;r=29795</tei:idno>
                         <tei:imprint>
@@ -15289,7 +15292,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/2</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7597;r=15492</tei:idno>
                         <tei:imprint>
@@ -15308,7 +15314,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/3</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7598;r=21909</tei:idno>
                         <tei:imprint>
@@ -15326,7 +15335,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/4</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7599;r=1344</tei:idno>
                         <tei:imprint>
@@ -15345,7 +15357,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/5</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7600;r=14590</tei:idno>
                         <tei:imprint>
@@ -15364,7 +15379,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/6</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7601;r=11980</tei:idno>
                         <tei:imprint>
@@ -15383,7 +15401,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/7</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7602;r=1411</tei:idno>
                         <tei:imprint>
@@ -15402,7 +15423,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/8</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7603;r=23256</tei:idno>
                         <tei:imprint>
@@ -15421,7 +15445,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/9</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7604;r=30858</tei:idno>
                         <tei:imprint>
@@ -15440,7 +15467,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/10</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7605;r=30742</tei:idno>
                         <tei:imprint>
@@ -15459,7 +15489,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/11</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7606;r=28505</tei:idno>
                         <tei:imprint>
@@ -15477,7 +15510,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/12</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7607;r=24146</tei:idno>
                         <tei:imprint>
@@ -15495,7 +15531,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/13</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7608;r=3609</tei:idno>
                         <tei:imprint>
@@ -15513,7 +15552,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/14</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7609;r=13924</tei:idno>
                         <tei:imprint>
@@ -15531,7 +15573,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/15</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7610;r=19854</tei:idno>
                         <tei:imprint>
@@ -15549,7 +15594,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/16</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7611;r=29465</tei:idno>
                         <tei:imprint>
@@ -15568,7 +15616,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/17</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7612;r=12239</tei:idno>
                         <tei:imprint>
@@ -15587,7 +15638,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/18</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7613;r=26206</tei:idno>
                         <tei:imprint>
@@ -15606,7 +15660,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/19</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7614;r=24209</tei:idno>
                         <tei:imprint>
@@ -15625,7 +15682,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/20</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7615;r=16499</tei:idno>
                         <tei:imprint>
@@ -15644,7 +15704,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/21</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7616;r=18175</tei:idno>
                         <tei:imprint>
@@ -15663,7 +15726,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/22</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7617;r=31036</tei:idno>
                         <tei:imprint>
@@ -15682,7 +15748,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/23</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7618;r=23061</tei:idno>
                         <tei:imprint>
@@ -15701,7 +15770,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/24</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7619;r=13647</tei:idno>
                         <tei:imprint>
@@ -15720,7 +15792,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/25</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7620;r=15618</tei:idno>
                         <tei:imprint>
@@ -15739,7 +15814,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/26</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7621;r=25013</tei:idno>
                         <tei:imprint>
@@ -15758,7 +15836,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/27</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7622;r=26727</tei:idno>
                         <tei:imprint>
@@ -15776,7 +15857,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/28</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7623;r=15712</tei:idno>
                         <tei:imprint>
@@ -15795,7 +15879,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/29</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7624;r=27896</tei:idno>
                         <tei:imprint>
@@ -15814,7 +15901,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/30</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7625;r=27841</tei:idno>
                         <tei:imprint>
@@ -15833,7 +15923,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/31</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7626;r=20130</tei:idno>
                         <tei:imprint>
@@ -15852,7 +15945,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/32</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7627;r=9090</tei:idno>
                         <tei:imprint>
@@ -15871,7 +15967,10 @@
                 </tei:biblStruct>
                 <tei:biblStruct>
                     <tei:monogr>
-                        <tei:title level="j">al-Qabas: Jarīdat Yawmiyya Siyāsiyya Iqtiṣādiyya Ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar-Latn-x-ijmes">al-Qabas</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</tei:title>
+                        <tei:title level="j" xml:lang="ar">القبس</tei:title>
+                        <tei:title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</tei:title>
                         <tei:idno type="eap">EAP119/1/20/33</tei:idno>
                         <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=7628;r=9034</tei:idno>
                         <tei:imprint>
