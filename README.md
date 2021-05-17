@@ -1,7 +1,25 @@
+- this repository only contains bibliographic metadata for issues I could track down, namely in the al-Aqṣā collection. This means there are substantial **gaps**.
 
 # to do
 
-- unfortunately, I originally generated TSS XML with faulty **issue numbers** (due to a lack of knowledge), which I haven't completely fixed in Sente
+- I think, I will need to regenerate all metadata from scratch because issue numbers do not match combinations of publication dates and EAP IDs
+    - I originally generated TSS XML with **faulty issue numbers**: due to a lack of knowledge, I had not computationally accounted for weekdays on which al-Muqtabas hadn't been published.
+        + result: issue numbers in the metadata tend to be larger than they should
+        + not all of them had been fixed in Sente.
+    - Problem upon import of automatically generated Zotero RDF into Zotero
+        + `@rdf:about` is based on the BibTeX key,
+        + BibTeX keys, in turn, are based on a combination of volume and issue numbers, which means that there will be duplicate keys
+        + only the first reference will be imported into Zotero, subsequent "duplicates" (based on `@rdf:about`) are dropped
+    - solution:
+        + sort `<biblStruct>` by date
+        + check the difference between the current node and the preceding node in Julian days
+        + check if the difference in issue numbers is larger than the difference in Julian days. Account for weekdays, *al-Muqtabas* was certainly not published on
+
+   ```{.xpath}
+   //tei:monogr/tei:biblScope[@unit = 'issue'][1]/@from[. &lt;= preceding::tei:biblStruct[1]/tei:monogr/tei:biblScope[@unit = 'issue'][1]/@from]
+   ```
+
+- some volume numbers are missing
 
 # OCLC IDs and publication history
 
