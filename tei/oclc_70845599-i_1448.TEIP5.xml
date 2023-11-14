@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/xsl" href="../xslt-boilerplate/teibp_parameters.xsl"?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0"
+         xmlns:tei="http://www.tei-c.org/ns/1.0"
+         xml:id="oclc_70845599-i_1448"
+         prev="oclc_70845599-i_1447.TEIP5.xml"
+         next="oclc_70845599-i_1449.TEIP5.xml">
+   <tei:teiHeader xml:lang="en">
+      <tei:fileDesc>
+         <tei:titleStmt>
+            <title>al-Muqtabas #1448, 28 March 1914</title>
+            <title type="sub">TEI edition</title>
+            <respStmt xml:lang="en">
+               <resp>TEI edition</resp>
+               <persName xml:id="pers_TG">
+                  <forename>Till</forename>
+                  <surname>Grallert</surname>
+               </persName>
+            </respStmt>
+         </tei:titleStmt>
+         <tei:publicationStmt>
+            <authority>
+               <persName>Till Grallert</persName>
+            </authority>
+            <pubPlace>
+               <placeName>Berlin</placeName>
+            </pubPlace>
+            <date when="2023">2023</date>
+            <availability status="restricted">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Distributed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license</licence>
+            </availability>
+            <idno type="url">https://github.com/openarabicpe/journal_al-mahabba/blob/master/tei/oclc_70845599-i_1448.TEIP5.xml</idno>
+         </tei:publicationStmt>
+         <tei:sourceDesc>
+            <biblStruct xmlns:oape="https://openarabicpe.github.io/ns"
+                        oape:frequency="daily"
+                        subtype="newspaper"
+                        type="periodical">
+               <monogr>
+                  <title level="j" xml:lang="ar-Latn-x-ijmes">al-Muqtabas</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya iqtiṣādiyya ijtimāʿiyya</title>
+                  <title level="j" xml:lang="ar">المقتبس</title>
+                  <title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية اقتصادية اجتماعية</title>
+                  <idno type="OCLC">70845599</idno>
+                  <idno type="OCLC">1034546909</idno>
+                  <idno subtype="AUB" type="classmark">Mic-Na:142-5</idno>
+                  <idno type="BibTeX">oclc_70845599-v_5-i_1448</idno>
+                  <textLang mainLang="ar"/>
+                  <editor type="owner">
+                     <persName change="#d9e64"
+                               ref="viaf:32272677 oape:pers:878 wiki:Q3123742"
+                               xml:lang="ar">
+                        <forename xml:lang="ar">محمد</forename>
+                        <surname xml:lang="ar">كرد علي</surname>
+                     </persName>
+                  </editor>
+                  <editor>
+                     <persName ref="oape:pers:877" xml:lang="ar">
+                        <forename xml:lang="ar">احمد</forename>
+                        <surname xml:lang="ar">كرد علي</surname>
+                     </persName>
+                  </editor>
+                  <imprint>
+                     <pubPlace>
+                        <placeName ref="geon:170654 oape:place:61 " xml:lang="ar-Latn-x-ijmes">Dimashq</placeName>
+                        <placeName ref="geon:170654 oape:place:61 " xml:lang="ar">دمشق</placeName>
+                     </pubPlace>
+                     <date type="official" when="1914-03-28">28 Mar 1914</date>
+                     <date calendar="#cal_julian"
+                           datingMethod="#cal_julian"
+                           type="official"
+                           when="1914-03-28"
+                           when-custom="1914-03-15"
+                           xml:lang="ar-Latn-x-ijmes">15 Ādhār 1914, Saturday</date>
+                     <date calendar="#cal_ottomanfiscal"
+                           datingMethod="#cal_ottomanfiscal"
+                           type="official"
+                           when-custom="1330-01-15">15 Mārt 1330</date>
+                     <date calendar="#cal_islamic"
+                           datingMethod="#cal_islamic"
+                           type="official"
+                           when-custom="1332-05-01">1 Jum I 1332</date>
+                  </imprint>
+                  <biblScope from="5" to="5" unit="volume">5</biblScope>
+                  <biblScope from="1448" to="1448" unit="issue">1448</biblScope>
+                  <biblScope from="1" to="4" unit="page">1-4</biblScope>
+               </monogr>
+            </biblStruct>
+         </tei:sourceDesc>
+      </tei:fileDesc>
+      <tei:revisionDesc>
+         <tei:change when="2023-11-14">Created this file by automatic conversion of <tei:gi>biblStruct</tei:gi> from file:/Users/Shared/BachUni/BachBibliothek/GitHub/OpenArabicPE/newspaper_al-muqtabas/metadata/al-muqtabas.TEIP5.xml.</tei:change>
+      </tei:revisionDesc>
+   </tei:teiHeader>
+   <tei:facsimile>
+      <tei:surface xml:id="facs_1"/>
+      <tei:surface xml:id="facs_2"/>
+      <tei:surface xml:id="facs_3"/>
+      <tei:surface xml:id="facs_4"/>
+   </tei:facsimile>
+   <tei:text xml:lang="ar">
+      <tei:pb ed="print" n="1" facs="#facs_1"/>
+      <front/>
+      <tei:body>
+         <tei:div type="item">
+            <tei:pb ed="print" n="2" facs="#facs_2"/>
+            <tei:pb ed="print" n="3" facs="#facs_3"/>
+            <tei:pb ed="print" n="4" facs="#facs_4"/>
+         </tei:div>
+      </tei:body>
+   </tei:text>
+</tei:TEI>
